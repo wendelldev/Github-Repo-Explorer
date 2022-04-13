@@ -6,6 +6,8 @@ Projeto criado para resolver um desafio proposto por uma empresa. O projeto list
 
 Foi decidido a não utilização de bibliotecas UI (Ex.: Material Design), onde auxiliam em um desenvolvimento mais rápido e seguindo um padrão de layout, levando em consideração que a construção e estilização de componentes prórpios pode ser mais valioso no dia a dia.
 
+O projeto está hospedado no Firebase Hosting: [https://githubrepoexplorer.web.app](https://githubrepoexplorer.web.app).
+
 ## Como rodar o projeto
 
 Depois de clonar o projeto para seu computador, a partir do seu terminal, dentro do diretório do projeto, você pode rodar o comando(necessário node instalado):
