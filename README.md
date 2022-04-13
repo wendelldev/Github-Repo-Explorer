@@ -12,13 +12,13 @@ O projeto está hospedado no Firebase Hosting: [https://githubrepoexplorer.web.a
 
 Depois de clonar o projeto para seu computador, a partir do seu terminal, dentro do diretório do projeto, você pode rodar o comando(necessário node instalado):
 
-### `npm install` ou `yarn`
+### `yarn`
 
 Este comando irá instalar as dependências do projeto.
 
 Após finalizado a instalação das dependências, rode a aplicação com o seguinte comando:
 
-### `npm start` ou `yarn start`
+### `yarn start`
 
 Este comando roda a aplicação em modo de desenvolvimento.\
 No navegador, abra [http://localhost:3000](http://localhost:3000) para ter acesso a aplicação.
