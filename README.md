@@ -10,7 +10,7 @@ O projeto está hospedado no Firebase Hosting: [https://githubrepoexplorer.web.a
 
 ## Como rodar o projeto
 
-Depois de clonar o projeto para seu computador, a partir do seu terminal, dentro do diretório do projeto, você pode rodar o comando(necessário node instalado):
+Depois de clonar o projeto para seu computador, a partir do seu terminal, dentro do diretório do projeto, você pode rodar o comando(necessário node e yarn instalados):
 
 ### `yarn`
 
@@ -25,7 +25,7 @@ No navegador, abra [http://localhost:3000](http://localhost:3000) para ter acess
 
 ## Requisitos
 
-Recomendável versão 16.14.2 do Node ou mais recente.
+Recomendável versão 16.14.2 do Node ou mais recente e instalar as dependências pelo gerenciador de dependências Yarn([Como instalar Yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)).
 
 ## Screenshots
 
